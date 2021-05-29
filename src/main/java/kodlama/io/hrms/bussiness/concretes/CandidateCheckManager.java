@@ -16,6 +16,7 @@ import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;
 @Service
 public class CandidateCheckManager extends UserCheckManager<CandidateDto> {
 
+	//asdasd
 	@Autowired
 	private KPSPublicSoapProxy mernisProxy;
 	
